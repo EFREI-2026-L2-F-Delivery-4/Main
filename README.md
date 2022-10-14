@@ -1,3 +1,1 @@
 # Main
-
-<!-- feature/1 -->
