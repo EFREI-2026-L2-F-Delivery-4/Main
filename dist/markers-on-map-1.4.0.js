@@ -39,7 +39,7 @@
 
     // Markers On Map: Default Options on
     var momDefaultOptions = {
-        googleApiKey: null, // required => Google Maps JavaScript API Key
+        googleApiKey: AIzaSyBapxB7_0VV-N3UepOk-Tm6FumyPPOLElQ, // required => Google Maps JavaScript API Key
         googlePlacesApiEnabled: false, // if "Google Maps Places API" enabled on "Google APIs Console" can set "true"
         googlePlacesContentButton: 'Get Directions', // available if "googlePlacesApiEnabled" is true
         mapWidth: '100%', // map width
