@@ -3,5 +3,5 @@
 </p>
 
 
-# Markers On Map
+# LocShare
 Use highly customizable maps (Google Maps) with multiple custom Markers in your web projects.
